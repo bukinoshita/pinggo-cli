@@ -1,0 +1,18 @@
+{
+  "name": "pinggo-cli",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/pinggo-cli.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "pinggo": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "meow": "^3.7.0",
+    "ora": "^1.2.0",
+    "pinggo": "git+ssh://git@github.com/bukinoshita/pinggo.git",
+    "update-notifier": "^2.1.0"
+  }
+}

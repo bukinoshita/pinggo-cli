@@ -18,7 +18,6 @@ $ pinggo --help
   Example:
     $ pinggo
     $ pinggo --sa
-    $ starbucks 'M6K 3P6'
 
   Options:
     --sa               Show your South America ping

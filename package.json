@@ -14,5 +14,16 @@
     "ora": "^1.2.0",
     "pinggo": "git+ssh://git@github.com/bukinoshita/pinggo.git",
     "update-notifier": "^2.1.0"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false,
+    "esnext": true
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
   }
 }

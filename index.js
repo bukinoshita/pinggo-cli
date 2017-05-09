@@ -35,12 +35,12 @@ const spinner = ora('Loading resources...')
 const isTooHigh = ping => {
   if (ping > 50) {
     return '(CT) [RADIO]: Need backup! Your ping is to high to play.'
-  } else {
-    return '(TR) [RADIO]: Go go go! Locked and loaded, let\'s play.'
   }
+
+  return '(TR) [RADIO]: Go go go! Locked and loaded, let\'s play.'
 }
 
-const puts = (error, stdout, stderr) => {
+const puts = (error, stdout) => {
   console.log(`
 Your average ping is ${chalk.bold(stdout)}${isTooHigh(stdout)}`)
   spinner.stop()

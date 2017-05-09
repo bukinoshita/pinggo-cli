@@ -1,4 +1,4 @@
-# pinggo-cli
+# pinggo-cli [![Build Status](https://travis-ci.org/bukinoshita/pinggo-cli.svg?branch=master)](https://travis-ci.org/bukinoshita/pinggo-cli)
 
 > :signal_strength: Check your ping before match making, don't play with lag
 

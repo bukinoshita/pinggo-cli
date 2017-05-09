@@ -12,8 +12,8 @@ $ npm install -g pinggo-cli
 $ pinggo --help
 
   Usage:
-    $ pinggo                    Average NA (North America) ping
-    $ pinggo --sa               Average SA (South America) ping
+    $ pinggo          Average NA (North America) ping
+    $ pinggo --sa     Average SA (South America) ping
 
   Example:
     $ pinggo

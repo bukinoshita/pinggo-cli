@@ -26,6 +26,10 @@ $ pinggo --help
     -v, --version      Show version
 ```
 
+## Demo
+
+<img src="https://cldup.com/ka1hnx9jnp.png" width="750px"/>
+
 ## Related
 
 - [pinggo](https://github.com/bukinoshita/pinggo) — :signal_strength: Ping average round trip times in milli-seconds

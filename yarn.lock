@@ -1296,9 +1296,9 @@ pify@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
 
-"pinggo@git+ssh://git@github.com/bukinoshita/pinggo.git":
-  version "0.0.0"
-  resolved "git+ssh://git@github.com/bukinoshita/pinggo.git#0ed42054a4e258ef40897b705d410fdbd8ddd1c4"
+pinggo@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/pinggo/-/pinggo-0.0.1.tgz#cd14e28e53742e0207d8bda90e23ec4511e637e8"
 
 pinkie-promise@^2.0.0:
   version "2.0.1"

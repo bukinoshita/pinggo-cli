@@ -9,7 +9,7 @@
     "pinggo": "index.js"
   },
   "dependencies": {
-    "chalk": "^1.1.3",
+    "chalk": "^2.0.0",
     "meow": "^3.7.0",
     "ora": "^1.2.0",
     "pinggo": "^0.0.1",

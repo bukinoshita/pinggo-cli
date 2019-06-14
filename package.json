@@ -1,6 +1,6 @@
 {
   "name": "pinggo-cli",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "cli.js",
   "repository": "bukinoshita/pinggo-cli",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",

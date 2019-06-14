@@ -1,0 +1,11 @@
+[
+  { "name": "US West", "value": "us-west", "ip": "192.69.96.1" },
+  { "name": "US East", "value": "us-east", "ip": "208.78.164.1" },
+  { "name": "Europe West", "value": "europe-west", "ip": "146.66.152.1" },
+  { "name": "Europe East", "value": "europe-east", "ip": "146.66.155.1" },
+  { "name": "South America", "value": "south-america", "ip": "209.197.25.1" },
+  { "name": "SE Asia", "value": "se-asia", "ip": "103.28.54.1" },
+  { "name": "Russia", "value": "russia", "ip": "146.66.156.1" },
+  { "name": "Australia", "value": "australia", "ip": "103.10.125.1" },
+  { "name": "South Africa", "value": "south-africa", "ip": "196.38.180.1" }
+]

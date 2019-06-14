@@ -3,32 +3,30 @@
 > :signal_strength: Check your ping before match making, don't play with lag
 
 ## Install
+
 ```bash
-$ npm install -g pinggo-cli
+$ npx pinggo-cli
 ```
 
 ## Usage
+
 ```bash
 $ pinggo --help
 
   Usage:
-    $ pinggo          Average NA (North America) ping
-    $ pinggo --sa     Average SA (South America) ping
+    $ pinggo          Choose server to check your ping
 
   Example:
     $ pinggo
-    $ pinggo --sa
 
   Options:
-    --sa               Show your South America ping
-
     -h, --help         Show help options
     -v, --version      Show version
 ```
 
 ## Demo
 
-<img src="https://cldup.com/ka1hnx9jnp.png" width="750px"/>
+<img src="demo.gif" width="750px"/>
 
 ## Related
 
@@ -36,4 +34,4 @@ $ pinggo --help
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/bukinoshita/pinggo-cli/master/LICENSE) &copy; Bu Kinoshita
+MIT © [Bu Kinoshita](https://bukinoshita.io)

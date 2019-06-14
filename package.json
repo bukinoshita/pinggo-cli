@@ -12,7 +12,7 @@
     "chalk": "^2.0.0",
     "meow": "^5.0.0",
     "ora": "^3.0.0",
-    "pinggo": "^0.0.1",
+    "pinggo": "^1.0.0",
     "update-notifier": "^3.0.0"
   },
   "scripts": {

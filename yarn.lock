@@ -1656,9 +1656,9 @@ pify@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
-pinggo@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/pinggo/-/pinggo-0.0.1.tgz#cd14e28e53742e0207d8bda90e23ec4511e637e8"
+pinggo@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/pinggo/-/pinggo-1.0.0.tgz#bb617fecdaacc226dd764a2d0149660faea3fc2b"
 
 pinkie-promise@^2.0.0:
   version "2.0.1"

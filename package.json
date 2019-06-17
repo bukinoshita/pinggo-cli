@@ -35,10 +35,10 @@
     "xo": "^0.24.0"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^4.3.0",
-    "husky": "^2.4.1",
-    "lint-staged": "^8.2.1",
-    "prettier": "^1.18.2"
+    "eslint-config-prettier": "4.3.0",
+    "husky": "2.4.1",
+    "lint-staged": "8.2.1",
+    "prettier": "1.18.2"
   },
   "xo": {
     "extends": [
